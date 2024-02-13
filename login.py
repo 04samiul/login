@@ -10,7 +10,7 @@ if givenUsername == username:
     givenPassword= input("Enter your password: ")
     if givenPassword ==password:
         print("Correct Password")
-        os.system("figlet LOG IN SUCCESS")
+        os.system("figlet Samiul")
     else:
         print("Wrong Password")
 
